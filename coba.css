@@ -1,0 +1,150 @@
+body {
+    font-family: 'Source Sans Pro';
+    background: white;
+    margin: 0;
+    color: black;
+    width: 50%;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: end;
+    grid-template-rows: 70px 70px 70px 70px 70px 70px 70px 70px 70px 70px 70px 70px;
+    margin: 5px;
+}
+
+.box1 {
+    width: 98.5%;
+    height: 97%;
+    background: green;
+    border-radius: 10px;
+    Margin: 5px;
+    grid-column: span 2;
+    grid-row: span 2;
+}
+
+.box2 {
+    width: 97%;
+    height: 97%;
+    background: green;
+    border-radius: 10px;
+    Margin: 5px;
+    grid-row: span 2;
+}
+
+.box3 {
+    width: 97%;
+    height: 97%;
+    background: green;
+    border-radius: 10px;
+    Margin: 5px;
+    grid-row: span 3;
+}
+
+.box4 {
+    width: 97%;
+    height: 97%;
+    background: green;
+    border-radius: 10px;
+    Margin: 5px;
+    grid-row: span 2;
+}
+
+.box5 {
+    width: 97%;
+    height: 98%;
+    background: green;
+    border-radius: 10px;
+    Margin: 5px;
+    grid-row: span 5;
+}
+
+.box6 {
+    width: 97%;
+    height: 97%;
+    background: green;
+    border-radius: 10px;
+    Margin: 5px;
+    grid-row: span 2;
+}
+
+.box7 {
+    width: 97%;
+    height: 97%;
+    background: green;
+    border-radius: 10px;
+    Margin: 5px;
+    grid-row: span 2;
+}
+
+.box8 {
+    width: 97%;
+    height: 97%;
+    background: green;
+    border-radius: 10px;
+    Margin: 5px;
+    grid-row: span 3;
+}
+
+.box9 {
+    width: 97%;
+    height: 97%;
+    background: green;
+    border-radius: 10px;
+    Margin: 5px;
+}
+
+.box10 {
+    width: 97%;
+    height: 97%;
+    background: green;
+    border-radius: 10px;
+    Margin: 5px;
+    grid-row: span 2;
+}
+
+.box11 {
+    width: 97%;
+    height: 97%;
+    background: green;
+    border-radius: 10px;
+    Margin: 5px;
+    grid-row: span 2;
+}
+
+.box12 {
+    width: 97%;
+    height: 97%;
+    background: green;
+    border-radius: 10px;
+    Margin: 5px;
+    grid-row: span 2;
+}
+
+.box13 {
+    width: 97%;
+    height: 97%;
+    background: green;
+    border-radius: 10px;
+    Margin: 5px;
+    grid-row: span 3;
+}
+
+.box14 {
+    width: 97%;
+    height: 97%;
+    background: green;
+    border-radius: 10px;
+    Margin: 5px;
+    grid-row: span 2;
+}
+
+.box15 {
+    width: 97%;
+    height: 97%;
+    background: green;
+    border-radius: 10px;
+    Margin: 5px;
+    grid-row: span 2;
+}
